@@ -1,0 +1,5 @@
+tarefa1:
+  script:
+  - echo "hello world"
+  - echo "bom dia"
+  -echo date
